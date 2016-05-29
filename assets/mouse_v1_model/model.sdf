@@ -1,0 +1,183 @@
+<sdf version='1.5'>
+  <model name='MouseModel'>
+    <static>false</static>
+    <pose>0 0 1 0 0 0</pose>
+    <link name="mouse_head">
+      <gravity>true</gravity>
+      <inertial>
+        <pose>0 2 3 0 0 0</pose>
+        <mass>10</mass>
+        <inertia>
+          <ixx>1.98781</ixx>
+          <ixy>0.0281526</ixy>
+          <ixz>0.497399</ixz>
+          <iyy>43.3947</iyy>
+          <iyz>0.00446164</iyz>
+          <izz>43.5915</izz>
+        </inertia>
+      </inertial>
+      <collision name="mouse_head_collision">
+        <pose>0 2 3 0 0 0</pose>
+        <geometry>
+           <box><size>0.1 0.1 0.1</size></box>
+        </geometry>
+      </collision>
+      <visual name="mouse_head_visual">
+        <pose>0 -2 -2 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://mouse_v1_model/meshes/head_separate.dae</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/Yellow</name>
+          </script>
+        </material>
+      </visual>
+      <sensor name='cam_left_eye' type='camera'>
+        <always_on>1</always_on>
+        <update_rate>10</update_rate>
+        <visualize>1</visualize>
+        <pose>0.75 1.25 3 0 0 -1.39</pose>
+        <topic>/mouse/left_eye</topic>
+        <camera>
+          <image>
+            <width>640</width>
+            <height>480</height>
+            <format>R8G8B8</format>
+          </image>
+          <clip>
+            <near>0.1</near>
+            <far>100</far>
+          </clip>
+        </camera>
+        <plugin name="mouse_left_eye" filename="libgazebo_ros_camera.so">
+          <alwaysOn>true</alwaysOn>
+          <updateRate>0.0</updateRate>
+          <cameraName>mouse_left_eye</cameraName>
+          <imageTopicName>mouse/left_eye</imageTopicName>
+          <cameraInfoTopicName>mouse/left_eye_info</cameraInfoTopicName>
+          <frameName>base_link</frameName>
+          <hackBaseline>0.07</hackBaseline>
+          <distortionK1>0.0</distortionK1>
+          <distortionK2>0.0</distortionK2>
+          <distortionK3>0.0</distortionK3>
+          <distortionT1>0.0</distortionT1>
+          <distortionT2>0.0</distortionT2>
+        </plugin>
+      </sensor>
+      <sensor name='cam_right_eye' type='camera'>
+        <always_on>1</always_on>
+        <update_rate>10</update_rate>
+        <visualize>1</visualize>
+        <pose>-0.75 1.25 3 0 0 -1.75</pose>
+        <topic>/mouse/right_eye</topic>
+        <camera>
+          <image>
+            <width>640</width>
+            <height>480</height>
+            <format>R8G8B8</format>
+          </image>
+          <clip>
+            <near>0.1</near>
+            <far>100</far>
+          </clip>
+        </camera>
+        <plugin name="mouse_right_eye" filename="libgazebo_ros_camera.so">
+          <alwaysOn>true</alwaysOn>
+          <updateRate>0.0</updateRate>
+          <cameraName>mouse_right_eye</cameraName>
+          <imageTopicName>mouse/right_eye</imageTopicName>
+          <cameraInfoTopicName>mouse/right_eye_info</cameraInfoTopicName>
+          <frameName>base_link</frameName>
+          <hackBaseline>0.07</hackBaseline>
+          <distortionK1>0.0</distortionK1>
+          <distortionK2>0.0</distortionK2>
+          <distortionK3>0.0</distortionK3>
+          <distortionT1>0.0</distortionT1>
+          <distortionT2>0.0</distortionT2>
+        </plugin>
+      </sensor>
+    </link>
+    <link name="mouse_body">
+      <gravity>true</gravity>
+      <inertial>
+        <pose>0 4 2 0 0 0</pose>
+        <mass>150</mass>
+        <inertia>
+          <ixx>1.98781</ixx>
+          <ixy>0.0281526</ixy>
+          <ixz>0.497399</ixz>
+          <iyy>43.3947</iyy>
+          <iyz>0.00446164</iyz>
+          <izz>43.5915</izz>
+        </inertia>
+      </inertial>
+      <collision name="mouse_body_collision">
+        <pose>0 4 0.15 0 0 0</pose>
+        <geometry>
+           <box><size>4 8 0.05</size></box>
+        </geometry>
+      </collision>
+      <visual name="mouse_body_visual">
+        <pose>0 -2 -2 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://mouse_v1_model/meshes/body_separate.dae</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/Grey</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+    <joint name="mouse_head_joint" type="revolute">
+      <sensor name="mouse_head_sensor" type="force_torque"><force_torque></force_torque></sensor>
+      <pose>0 2 2.25 0 0 0</pose>
+      <parent>mouse_body</parent>
+      <child>mouse_head</child>
+      <axis>
+        <xyz>0 0 1</xyz>
+      </axis>
+      <physics>
+        <provide_feedback>true</provide_feedback>
+      </physics>
+    </joint>
+    <!--<joint type="revolute" name="mouse_head_joint">
+  <pose>0 2 2.25 0 0 0</pose>
+  <child>mouse_head</child>
+  <parent>mouse_body</parent>
+  <axis>
+    <dynamics>
+      <damping>0.5</damping>
+      <friction>0.5</friction>
+    </dynamics>
+    <limit>
+      <lower>-0.780800</lower>
+      <upper>0.780800</upper>
+      <effort>0.000000</effort>
+      <velocity>0.000000</velocity>
+    </limit>
+    <xyz>1 0 0</xyz>
+    <use_parent_model_frame>true</use_parent_model_frame>
+  </axis>
+    </joint>-->
+    <plugin name="generic_controller" filename="libgeneric_controller_plugin.so">
+       <controller joint_name="mouse_head_joint">
+         <type>position</type>
+         <pid>2.3 0.0 18.0</pid>
+       </controller>
+       <visual joint_name="mouse_head_joint">
+        <joint_name>neck</joint_name>
+        <joint_axis>1 0 0</joint_axis>
+       </visual>
+     </plugin>
+  </model>
+</sdf>

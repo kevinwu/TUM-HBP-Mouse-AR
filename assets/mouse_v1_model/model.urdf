@@ -1,0 +1,3438 @@
+<?xml version="1.0"?>
+<robot name="MouseModel">
+
+  <link name="base_link">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.005">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.009">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.012">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.013">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.014">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.015">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.016">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.017">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.018">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.019">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.020">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_hips.021">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="joint_1_obj_neck">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+  </link>
+
+  <link name="chest">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.09547042846679688 2.1154958812985572e-05 0.034793412685394286" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/chest.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.09547042846679688 2.1154958812985572e-05 0.034793412685394286" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/chest.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="ear.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.033170557022094725 0.03317104578018189 0.033640635013580326" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/ear.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.033170557022094725 0.03317104578018189 0.033640635013580326" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/ear.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="ear.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.03298273086547852 -0.035189270973205566 0.03345390558242798" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/ear.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.03298273086547852 -0.035189270973205566 0.03345390558242798" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/ear.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07221741676330566 0.007381063699722291 -0.005161666870117188" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07221741676330566 0.007381063699722291 -0.005161666870117188" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.001">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008530807495117188 0.0005591035820543766 -0.00636981725692749" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.001.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008530807495117188 0.0005591035820543766 -0.00636981725692749" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.001.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.005819034576416016 -0.00030835855286568406 -0.005218613147735596" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.005819034576416016 -0.00030835855286568406 -0.005218613147735596" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008141231536865235 -0.0016974804922938347 -0.004801881313323975" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008141231536865235 -0.0016974804922938347 -0.004801881313323975" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.02025892734527588 0.007192182540893555 -0.0036512970924377445" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.004.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.02025892734527588 0.007192182540893555 -0.0036512970924377445" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.004.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.005">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.00808100700378418 0.0008421660400927067 -0.0034140944480895996" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.005.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.00808100700378418 0.0008421660400927067 -0.0034140944480895996" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.005.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007193374633789063 0.0007895351387560368 -0.0047604918479919435" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.006.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007193374633789063 0.0007895351387560368 -0.0047604918479919435" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.006.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.010091876983642578 0.0009419203735888005 -0.005017340183258057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.007.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.010091876983642578 0.0009419203735888005 -0.005017340183258057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.007.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.005247807502746582 0.011380720138549806 -0.004455268383026123" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.008.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.005247807502746582 0.011380720138549806 -0.004455268383026123" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.008.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.009">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.011668705940246583 0.0058945298194885256 -0.0022283196449279785" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.009.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.011668705940246583 0.0058945298194885256 -0.0022283196449279785" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.009.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008760261535644532 0.003974640369415284 -0.0022804856300354007" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.010.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008760261535644532 0.003974640369415284 -0.0022804856300354007" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.010.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009933710098266602 0.0041907310485839845 -0.003868949413299561" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.011.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009933710098266602 0.0041907310485839845 -0.003868949413299561" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.011.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.013">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.020173954963684085 0.000711596105247736 -0.00026324987411499026" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.013.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.020173954963684085 0.000711596105247736 -0.00026324987411499026" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.013.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.014">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.0048925399780273444 -0.003423839807510376 -0.00443958044052124" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.014.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.0048925399780273444 -0.003423839807510376 -0.00443958044052124" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.014.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.015">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.0042373895645141605 -0.0028202353045344354 -0.005391037464141846" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.015.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.0042373895645141605 -0.0028202353045344354 -0.005391037464141846" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.015.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.016">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.005891776084899903 -0.00385509729385376 -0.006238043308258057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.016.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.005891776084899903 -0.00385509729385376 -0.006238043308258057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.016.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.L.017">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.019554734230041504 -0.007627105712890625 -0.006953322887420655" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.017.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.019554734230041504 -0.007627105712890625 -0.006953322887420655" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.L.017.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07137441635131836 -0.008482927083969116 -0.0049703121185302734" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07137441635131836 -0.008482927083969116 -0.0049703121185302734" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.001">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008185386657714844 -0.00045999279245734215 -0.0033233523368835453" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.001.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008185386657714844 -0.00045999279245734215 -0.0033233523368835453" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.001.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009976696968078614 0.002296006865799427 -0.005339229106903077" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009976696968078614 0.002296006865799427 -0.005339229106903077" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008960294723510743 0.0021932484582066537 -0.004252660274505615" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008960294723510743 0.0021932484582066537 -0.004252660274505615" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.016608333587646486 -0.004966771602630616 -0.003880417346954346" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.004.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.016608333587646486 -0.004966771602630616 -0.003880417346954346" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.004.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.005">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009627532958984376 -0.0020110486075282097 -0.002447354793548584" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.005.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009627532958984376 -0.0020110486075282097 -0.002447354793548584" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.005.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008864068984985351 -0.0008067368529736997 -0.0065373539924621586" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.006.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008864068984985351 -0.0008067368529736997 -0.0065373539924621586" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.006.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008122634887695313 -0.0018238304182887077 -0.005099761486053467" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.007.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008122634887695313 -0.0018238304182887077 -0.005099761486053467" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.007.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007313251495361328 -0.012955713272094728 -0.00308305025100708" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.008.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007313251495361328 -0.012955713272094728 -0.00308305025100708" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.008.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.009">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009154224395751953 -0.004991996288299561 -0.0029931902885437013" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.009.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009154224395751953 -0.004991996288299561 -0.0029931902885437013" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.009.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.010878205299377441 -0.004215466976165772 -0.005266368389129639" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.010.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.010878205299377441 -0.004215466976165772 -0.005266368389129639" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.010.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008355927467346192 -0.0039725661277771 -0.004503118991851807" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.011.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008355927467346192 -0.0039725661277771 -0.004503118991851807" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.011.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.013">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01743450164794922 -0.001104032900184393 -0.0052415251731872566" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.013.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01743450164794922 -0.001104032900184393 -0.0052415251731872566" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.013.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.014">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007334589958190918 0.003627783060073853 -0.003795158863067627" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.014.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007334589958190918 0.003627783060073853 -0.003795158863067627" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.014.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.015">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008153271675109864 0.0027180256322026255 -0.00414351224899292" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.015.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008153271675109864 0.0027180256322026255 -0.00414351224899292" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.015.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.016">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01018974781036377 0.0038007020950317385 -0.003535473346710205" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.016.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01018974781036377 0.0038007020950317385 -0.003535473346710205" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.016.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="forearm.R.017">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.011564207077026368 0.005915236473083497 -0.003003203868865967" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.017.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.011564207077026368 0.005915236473083497 -0.003003203868865967" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/forearm.R.017.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07564404010772706 -0.003368407115340233 0.024488341808319092" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07564404010772706 -0.003368407115340233 0.024488341808319092" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.0020155429840087893 -0.007073310017585755 -0.0023121237754821777" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.0020155429840087893 -0.007073310017585755 -0.0023121237754821777" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.0008323192596435547 0.005782267451286316 -0.005376851558685303" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.0008323192596435547 0.005782267451286316 -0.005376851558685303" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.0217801570892334 -0.013024753332138062 -0.004814565181732178" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.004.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.0217801570892334 -0.013024753332138062 -0.004814565181732178" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.004.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.005">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.001685929298400879 0.02169650197029114 -5.137920379638672e-06" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.005.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.001685929298400879 0.02169650197029114 -5.137920379638672e-06" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.005.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.015224134922027588 -0.014771437644958496 0.0007604718208312988" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.006.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.015224134922027588 -0.014771437644958496 0.0007604718208312988" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.006.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.018507051467895507 0.010153323411941528 -0.015091454982757569" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.007.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.018507051467895507 0.010153323411941528 -0.015091454982757569" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.007.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.022000205516815186 -0.024148118495941163 0.0004062294960021973" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.008.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.022000205516815186 -0.024148118495941163 0.0004062294960021973" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.008.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.009">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.026118993759155273 0.013240277767181396 -0.0026279330253601075" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.009.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.026118993759155273 0.013240277767181396 -0.0026279330253601075" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.009.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.028680896759033205 -0.03285138607025147 -0.006052935123443604" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.010.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.028680896759033205 -0.03285138607025147 -0.006052935123443604" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.010.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.00029838085174560547 0.014991557598114014 0.011108124256134035" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.011.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.00029838085174560547 0.014991557598114014 0.011108124256134035" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.011.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.012">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.03773419857025147 -0.0028854845091700557 -0.015615808963775636" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.012.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.03773419857025147 -0.0028854845091700557 -0.015615808963775636" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.012.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="head.013">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.017985606193542482 0.014329612255096436 -0.019884955883026124" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.013.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.017985606193542482 0.014329612255096436 -0.019884955883026124" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/head.013.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.016017556190490723 -0.0002017921768128872 0.02612177133560181" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.016017556190490723 -0.0002017921768128872 0.02612177133560181" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.001">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03687992095947266 -0.0004676179960370064 -0.0007143378257751465" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.001.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03687992095947266 -0.0004676179960370064 -0.0007143378257751465" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.001.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.030081081390380862 -0.0004631333984434605 -0.00040603876113891606" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.030081081390380862 -0.0004631333984434605 -0.00040603876113891606" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.034932613372802734 -0.0006062611937522888 -0.00016299486160278322" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.034932613372802734 -0.0006062611937522888 -0.00016299486160278322" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.04216632843017579 -0.0005244791507720948 -0.001039731502532959" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.004.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.04216632843017579 -0.0005244791507720948 -0.001039731502532959" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.004.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.005">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03502645492553711 -0.0005244504660367966 -0.0016388773918151857" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.005.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03502645492553711 -0.0005244504660367966 -0.0016388773918151857" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.005.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03358659744262695 -0.0005244615487754345 -0.0009704709053039551" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.006.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03358659744262695 -0.0005244615487754345 -0.0009704709053039551" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.006.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.02659120559692383 -0.0006108567118644715 0.002071201801300049" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.007.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.02659120559692383 -0.0006108567118644715 0.002071201801300049" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.007.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.025472164154052734 -0.00040783099830150605 -0.0014993548393249512" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.008.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.025472164154052734 -0.00040783099830150605 -0.0014993548393249512" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.008.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.009">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01894960403442383 -0.0005244692787528038 -0.0017576575279235841" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.009.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01894960403442383 -0.0005244692787528038 -0.0017576575279235841" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.009.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.02987017631530762 -0.0005244432482868433 0.00023065805435180665" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.010.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.02987017631530762 -0.0005244432482868433 0.00023065805435180665" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.010.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03286862373352051 -0.0005244590807706118 -0.00016952753067016603" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.011.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03286862373352051 -0.0005244590807706118 -0.00016952753067016603" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.011.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.012">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.035916900634765624 -0.0005244692321866751 -0.0013112425804138184" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.012.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.035916900634765624 -0.0005244692321866751 -0.0013112425804138184" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.012.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.013">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03388867378234863 -0.0005244695115834474 -0.000610792636871338" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.013.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03388867378234863 -0.0005244695115834474 -0.000610792636871338" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.013.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.014">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03140058517456055 -0.00046238326467573643 -0.0013693928718566896" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.014.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03140058517456055 -0.00046238326467573643 -0.0013693928718566896" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.014.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.015">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.035857343673706056 -0.0005707701668143273 0.00128093957901001" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.015.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.035857343673706056 -0.0005707701668143273 0.00128093957901001" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.015.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.016">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03976850509643555 -0.0005244607571512461 0.01467515230178833" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.016.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03976850509643555 -0.0005244607571512461 0.01467515230178833" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.016.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.018">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.04318866729736329 -0.0004957713652402163 -0.0017496228218078615" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.018.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.04318866729736329 -0.0004957713652402163 -0.0017496228218078615" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.018.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.019">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.03304338455200195 -0.0005800287239253521 -0.0007476449012756349" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.019.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.03304338455200195 -0.0005800287239253521 -0.0007476449012756349" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.019.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.020">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.04487829208374024 -0.0005609565880149603 -0.0005477547645568848" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.020.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.04487829208374024 -0.0005609565880149603 -0.0005477547645568848" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.020.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.021">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.04170646667480469 -0.00048765176907181743 -0.0009430289268493653" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.021.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.04170646667480469 -0.00048765176907181743 -0.0009430289268493653" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.021.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="hips.022">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.0 0.0 0.0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.022.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.0 0.0 0.0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/hips.022.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="mouth">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.04651706218719483 0.003609146922826767 -0.04725545644760132" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/mouth.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.04651706218719483 0.003609146922826767 -0.04725545644760132" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/mouth.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="neck">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07425131797790528 -0.0008953288197517395 -0.1046962857246399" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07425131797790528 -0.0008953288197517395 -0.1046962857246399" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="neck.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.02647380828857422 0.06000136137008667 0.053473746776580816" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.02647380828857422 0.06000136137008667 0.053473746776580816" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="neck.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.025123190879821778 -0.06023984551429749 0.05064381361007691" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.025123190879821778 -0.06023984551429749 0.05064381361007691" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/neck.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="nose">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.026598894596099855 -0.003460100665688515 -0.0008578181266784669" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/nose.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.026598894596099855 -0.003460100665688515 -0.0008578181266784669" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/nose.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.016245222091674807 -0.008977824449539184 -0.045316588878631596" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.016245222091674807 -0.008977824449539184 -0.045316588878631596" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.016245222091674807 0.008811283111572267 -0.04531673192977906" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.016245222091674807 0.008811283111572267 -0.04531673192977906" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.012593090534210205 0.008801627159118653 -0.007013523578643799" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.012593090534210205 0.008801627159118653 -0.007013523578643799" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007233905792236328 0.0028991105034947397 -0.004151439666748047" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007233905792236328 0.0028991105034947397 -0.004151439666748047" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.004">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009131240844726564 0.003528594970703125 -0.0037936329841613773" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.004.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009131240844726564 0.003528594970703125 -0.0037936329841613773" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.004.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.006">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.016291725635528564 -0.0005909799598157406 -0.011285102367401123" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.006.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.016291725635528564 -0.0005909799598157406 -0.011285102367401123" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.006.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.007">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009148645401000978 0.0012841464020311834 -0.005481207370758057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.007.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009148645401000978 0.0012841464020311834 -0.005481207370758057" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.007.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.008">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009091925621032716 0.002565157599747181 -0.004592263698577881" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.008.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009091925621032716 0.002565157599747181 -0.004592263698577881" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.008.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.010">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01859661340713501 -0.006314623355865479 -0.006751263141632081" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.010.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01859661340713501 -0.006314623355865479 -0.006751263141632081" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.010.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.011">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.00835188627243042 -0.0034741997718811036 -0.0067605733871459964" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.011.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.00835188627243042 -0.0034741997718811036 -0.0067605733871459964" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.011.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.012">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007352232933044434 -0.001947438530623913 -0.004865109920501709" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.012.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007352232933044434 -0.001947438530623913 -0.004865109920501709" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.012.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.014">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009555971622467041 -0.015280580520629883 -0.007334768772125244" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.014.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009555971622467041 -0.015280580520629883 -0.007334768772125244" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.014.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.015">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009093725681304931 -0.005072689056396485 -0.007560431957244873" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.015.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009093725681304931 -0.005072689056396485 -0.007560431957244873" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.015.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.016">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.006980705261230469 -0.004308140277862549 -0.004366528987884521" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.016.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.006980705261230469 -0.004308140277862549 -0.004366528987884521" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.016.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.019">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01378394365310669 -0.010488331317901611 -0.007436430454254151" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.019.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01378394365310669 -0.010488331317901611 -0.007436430454254151" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.019.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.020">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.006048047542572022 -0.00426863431930542 -0.004427564144134521" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.020.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.006048047542572022 -0.00426863431930542 -0.004427564144134521" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.020.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.021">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007891654968261719 -0.005175358057022095 -0.00404285192489624" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.021.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007891654968261719 -0.005175358057022095 -0.00404285192489624" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.021.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.023">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.01433931589126587 0.0005567909218370915 -0.009083402156829835" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.023.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.01433931589126587 0.0005567909218370915 -0.009083402156829835" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.023.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.024">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009382677078247071 -0.001091682817786932 -0.0056434392929077155" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.024.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009382677078247071 -0.001091682817786932 -0.0056434392929077155" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.024.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.025">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.009091699123382568 -0.0025283215567469598 -0.004592037200927735" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.025.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.009091699123382568 -0.0025283215567469598 -0.004592037200927735" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.025.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.027">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.018167173862457277 0.006239593029022217 -0.00893150568008423" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.027.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.018167173862457277 0.006239593029022217 -0.00893150568008423" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.027.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.028">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008521831035614014 0.002159559912979603 -0.006880962848663331" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.028.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008521831035614014 0.002159559912979603 -0.006880962848663331" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.028.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.029">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007569003105163574 0.0006162882782518864 -0.004977834224700928" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.029.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007569003105163574 0.0006162882782518864 -0.004977834224700928" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.029.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.031">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.008689177036285401 0.014059531688690187 -0.00693274736404419" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.031.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.008689177036285401 0.014059531688690187 -0.00693274736404419" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.031.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.032">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.00991412401199341 0.0035510659217834473 -0.007503736019134522" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.032.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.00991412401199341 0.0035510659217834473 -0.007503736019134522" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.032.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin.R.033">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.007954525947570802 0.002764618583023548 -0.004783451557159424" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.033.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.007954525947570802 0.002764618583023548 -0.004783451557159424" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin.R.033.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin_lower.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07201824188232422 0.0047164678573608405 -0.007775390148162842" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin_lower.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07201824188232422 0.0047164678573608405 -0.007775390148162842" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin_lower.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shin_lower.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.07184472084045411 -0.0040877342224121095 -0.007746350765228272" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin_lower.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.07184472084045411 -0.0040877342224121095 -0.007746350765228272" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shin_lower.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shoulder.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.0003847599029541016 0.05542126893997193 0.03813883066177368" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shoulder.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.0003847599029541016 0.05542126893997193 0.03813883066177368" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shoulder.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="shoulder.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-8.735656738281251e-05 -0.05679348707199097 0.038149797916412355" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shoulder.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-8.735656738281251e-05 -0.05679348707199097 0.038149797916412355" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/shoulder.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="spine">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.09957768917083741 -0.0005244625266641378 0.056383717060089114" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.09957768917083741 -0.0005244625266641378 0.056383717060089114" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="spine.002">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.07211651802062989 -0.0005248966626822948 -0.14300571680068971" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.002.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.07211651802062989 -0.0005248966626822948 -0.14300571680068971" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.002.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="spine.003">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.033571052551269534 -0.0005336178466677666 -0.13306325674057007" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.003.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.033571052551269534 -0.0005336178466677666 -0.13306325674057007" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/spine.003.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="thigh.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.011218237876892091 0.012163740396499634 -0.00908411741256714" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/thigh.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.011218237876892091 0.012163740396499634 -0.00908411741256714" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/thigh.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="thigh.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.010824751853942872 -0.012418538331985474 -0.009129846096038818" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/thigh.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.010824751853942872 -0.012418538331985474 -0.009129846096038818" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/thigh.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="upper_arm.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.053357505798339845 0.019157183170318604 -0.0734458327293396" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/upper_arm.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.053357505798339845 0.019157183170318604 -0.0734458327293396" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/upper_arm.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="upper_arm.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="-0.0528529167175293 -0.019787520170211792 -0.07279089689254761" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/upper_arm.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="-0.0528529167175293 -0.019787520170211792 -0.07279089689254761" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/upper_arm.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="wrist.L">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.011252450942993165 -5.7196512352675205e-05 -0.00252143144607544" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/wrist.L.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.011252450942993165 -5.7196512352675205e-05 -0.00252143144607544" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/wrist.L.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="wrist.R">
+    <inertial>
+      <mass value="1" />
+      <inertia ixx="0" iyy="0" izz="0" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+
+    <visual>
+      <origin xyz="0.011177301406860352 -0.0007186292670667172 -0.0029512524604797365" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/wrist.R.dae" />
+      </geometry>
+    </visual>
+
+    <collision>
+      <origin xyz="0.011177301406860352 -0.0007186292670667172 -0.0029512524604797365" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file://meshes/wrist.R.dae" />
+      </geometry>
+    </collision>
+  </link>
+
+  <joint name="base_link_hips.022" type="fixed">
+    <parent link="base_link"/>
+    <child link="hips.022"/>
+    <origin xyz="-2.143505096435547 -1.2985119246877731e-05 0.34626379013061526" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.022_joint_1_obj_hips.002" type="fixed">
+    <parent link="hips.022"/>
+    <child link="joint_1_obj_hips.002"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.002_hips.021" type="fixed">
+    <parent link="joint_1_obj_hips.002"/>
+    <child link="hips.021"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.021_joint_1_obj_hips.003" type="fixed">
+    <parent link="hips.021"/>
+    <child link="joint_1_obj_hips.003"/>
+    <origin xyz="0.061371803283691406 4.656612873077393e-11 -0.0013237953186035158" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.003_hips.020" type="fixed">
+    <parent link="joint_1_obj_hips.003"/>
+    <child link="hips.020"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.020_joint_1_obj_hips.004" type="fixed">
+    <parent link="hips.020"/>
+    <child link="joint_1_obj_hips.004"/>
+    <origin xyz="0.06604194641113281 4.656612873077393e-11 -0.0009312629699707031" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.004_hips.019" type="fixed">
+    <parent link="joint_1_obj_hips.004"/>
+    <child link="hips.019"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.019_joint_1_obj_hips.005" type="fixed">
+    <parent link="hips.019"/>
+    <child link="joint_1_obj_hips.005"/>
+    <origin xyz="0.05624656677246094 9.313225746154786e-11 0.00039005279541015625" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.005_hips.018" type="fixed">
+    <parent link="joint_1_obj_hips.005"/>
+    <child link="hips.018"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.018_joint_1_obj_hips.006" type="fixed">
+    <parent link="hips.018"/>
+    <child link="joint_1_obj_hips.006"/>
+    <origin xyz="0.06993122100830078 0.0 -0.0027208328247070312" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.006_hips.001" type="fixed">
+    <parent link="joint_1_obj_hips.006"/>
+    <child link="hips.001"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.001_joint_1_obj_hips.007" type="fixed">
+    <parent link="hips.001"/>
+    <child link="joint_1_obj_hips.007"/>
+    <origin xyz="0.06096210479736328 0.0 -0.0006911277770996094" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.007_hips.002" type="fixed">
+    <parent link="joint_1_obj_hips.007"/>
+    <child link="hips.002"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.002_joint_1_obj_hips.008" type="fixed">
+    <parent link="hips.002"/>
+    <child link="joint_1_obj_hips.008"/>
+    <origin xyz="0.06223564147949219 4.656612873077393e-11 -0.0007421493530273438" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.008_hips.003" type="fixed">
+    <parent link="joint_1_obj_hips.008"/>
+    <child link="hips.003"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.003_joint_1_obj_hips.009" type="fixed">
+    <parent link="hips.003"/>
+    <child link="joint_1_obj_hips.009"/>
+    <origin xyz="0.05851821899414063 4.656612873077393e-11 -0.0005411148071289062" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.009_hips.004" type="fixed">
+    <parent link="joint_1_obj_hips.009"/>
+    <child link="hips.004"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.004_joint_1_obj_hips.010" type="fixed">
+    <parent link="hips.004"/>
+    <child link="joint_1_obj_hips.010"/>
+    <origin xyz="0.06394386291503906 0.0 -0.0002726554870605469" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.010_hips.005" type="fixed">
+    <parent link="joint_1_obj_hips.010"/>
+    <child link="hips.005"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.005_joint_1_obj_hips.011" type="fixed">
+    <parent link="hips.005"/>
+    <child link="joint_1_obj_hips.011"/>
+    <origin xyz="0.05062036514282227 0.0 -0.00255732536315918" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.011_hips.006" type="fixed">
+    <parent link="joint_1_obj_hips.011"/>
+    <child link="hips.006"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.006_joint_1_obj_hips.012" type="fixed">
+    <parent link="hips.006"/>
+    <child link="joint_1_obj_hips.012"/>
+    <origin xyz="0.05663013458251953 0.0 -0.0009317398071289062" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.012_hips.007" type="fixed">
+    <parent link="joint_1_obj_hips.012"/>
+    <child link="hips.007"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.007_joint_1_obj_hips.013" type="fixed">
+    <parent link="hips.007"/>
+    <child link="joint_1_obj_hips.013"/>
+    <origin xyz="0.04857959747314453 4.656612873077393e-11 0.0013222694396972656" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.013_hips.008" type="fixed">
+    <parent link="joint_1_obj_hips.013"/>
+    <child link="hips.008"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.008_joint_1_obj_hips.014" type="fixed">
+    <parent link="hips.008"/>
+    <child link="joint_1_obj_hips.014"/>
+    <origin xyz="0.045776462554931646 0.0 -0.0033538341522216797" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.014_hips.009" type="fixed">
+    <parent link="joint_1_obj_hips.014"/>
+    <child link="hips.009"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.009_joint_1_obj_hips.015" type="fixed">
+    <parent link="hips.009"/>
+    <child link="joint_1_obj_hips.015"/>
+    <origin xyz="0.04270133972167969 -9.313225746154786e-11 0.0007641315460205078" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.015_hips.010" type="fixed">
+    <parent link="joint_1_obj_hips.015"/>
+    <child link="hips.010"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.010_joint_1_obj_hips.016" type="fixed">
+    <parent link="hips.010"/>
+    <child link="joint_1_obj_hips.016"/>
+    <origin xyz="0.05476455688476563 4.656612873077393e-11 -0.0012697219848632813" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.016_hips.011" type="fixed">
+    <parent link="joint_1_obj_hips.016"/>
+    <child link="hips.011"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.011_joint_1_obj_hips.017" type="fixed">
+    <parent link="hips.011"/>
+    <child link="joint_1_obj_hips.017"/>
+    <origin xyz="0.056095027923583986 4.656612873077393e-11 0.00023398399353027346" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.017_hips.012" type="fixed">
+    <parent link="joint_1_obj_hips.017"/>
+    <child link="hips.012"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.012_joint_1_obj_hips.018" type="fixed">
+    <parent link="hips.012"/>
+    <child link="joint_1_obj_hips.018"/>
+    <origin xyz="0.06576299667358398 1.396983861923218e-10 -0.001678609848022461" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.018_hips.013" type="fixed">
+    <parent link="joint_1_obj_hips.018"/>
+    <child link="hips.013"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.013_joint_1_obj_hips.019" type="fixed">
+    <parent link="hips.013"/>
+    <child link="joint_1_obj_hips.019"/>
+    <origin xyz="0.059813499450683594 9.313225746154786e-11 -0.0007430553436279298" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.019_hips.014" type="fixed">
+    <parent link="joint_1_obj_hips.019"/>
+    <child link="hips.014"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.014_joint_1_obj_hips.020" type="fixed">
+    <parent link="hips.014"/>
+    <child link="joint_1_obj_hips.020"/>
+    <origin xyz="0.06061840057373047 -2.3283064365386963e-10 -0.0008938312530517578" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.020_hips.015" type="fixed">
+    <parent link="joint_1_obj_hips.020"/>
+    <child link="hips.015"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.015_joint_1_obj_hips.021" type="fixed">
+    <parent link="hips.015"/>
+    <child link="joint_1_obj_hips.021"/>
+    <origin xyz="0.07023134231567384 -1.396983861923218e-10 0.0042632102966308595" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_hips.021_hips.016" type="fixed">
+    <parent link="joint_1_obj_hips.021"/>
+    <child link="hips.016"/>
+    <origin xyz="-0.0 0.0 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips.016_hips" type="fixed">
+    <parent link="hips.016"/>
+    <child link="hips"/>
+    <origin xyz="0.0756302833557129 0.0 0.04489870071411133" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips_spine" type="fixed">
+    <parent link="hips"/>
+    <child link="spine"/>
+    <origin xyz="0.07280254364013672 0.0 0.08516740798950195" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="spine_chest" type="fixed">
+    <parent link="spine"/>
+    <child link="chest"/>
+    <origin xyz="0.19219207763671875 1.0244548320770264e-09 0.011847972869873047" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="chest_joint_1_obj_neck" type="fixed">
+    <parent link="chest"/>
+    <child link="joint_1_obj_neck"/>
+    <origin xyz="0.21797933578491213 -1.0244548320770264e-09 -0.011219787597656251" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="joint_1_obj_neck_neck" type="fixed">
+    <parent link="joint_1_obj_neck"/>
+    <child link="neck"/>
+    <origin xyz="-0.0 -4.656612873077393e-11 0.0" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck_head" type="fixed">
+    <parent link="neck"/>
+    <child link="head"/>
+    <origin xyz="0.12489142417907716 -4.656612873077393e-11 -0.04652285575866699" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head_head.002" type="fixed">
+    <parent link="head"/>
+    <child link="head.002"/>
+    <origin xyz="0.12106528282165528 -0.04494859874248505 0.009281396865844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.002_head.004" type="fixed">
+    <parent link="head.002"/>
+    <child link="head.004"/>
+    <origin xyz="-0.0024388313293457033 -0.027428391575813296 3.719329833984375e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.004_head.006" type="fixed">
+    <parent link="head.004"/>
+    <child link="head.006"/>
+    <origin xyz="-0.0013719558715820314 -0.028901475667953494 2.0885467529296877e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.006_head.008" type="fixed">
+    <parent link="head.006"/>
+    <child link="head.008"/>
+    <origin xyz="-0.003429698944091797 -0.025663280487060548 5.2309036254882814e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.008_head.010" type="fixed">
+    <parent link="head.008"/>
+    <child link="head.010"/>
+    <origin xyz="-0.004801750183105469 -0.025055646896362305 7.324218750000001e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.010_head.012" type="fixed">
+    <parent link="head.010"/>
+    <child link="head.012"/>
+    <origin xyz="-0.010975313186645509 -0.029209160804748537 0.00016736984252929688" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head_head.003" type="fixed">
+    <parent link="head"/>
+    <child link="head.003"/>
+    <origin xyz="0.12106528282165528 0.0407378226518631 0.009281396865844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.003_head.005" type="fixed">
+    <parent link="head.003"/>
+    <child link="head.005"/>
+    <origin xyz="-0.0003807544708251953 0.023997876048088077 5.8174133300781255e-06" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.005_head.007" type="fixed">
+    <parent link="head.005"/>
+    <child link="head.007"/>
+    <origin xyz="-0.0013720035552978516 0.028901493549346926 2.0885467529296877e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.007_head.009" type="fixed">
+    <parent link="head.007"/>
+    <child link="head.009"/>
+    <origin xyz="-0.003429698944091797 0.025663274526596072 5.2309036254882814e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.009_head.011" type="fixed">
+    <parent link="head.009"/>
+    <child link="head.011"/>
+    <origin xyz="-0.004801750183105469 0.025055646896362305 7.324218750000001e-05" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head.011_head.013" type="fixed">
+    <parent link="head.011"/>
+    <child link="head.013"/>
+    <origin xyz="-0.010975265502929689 0.0292091965675354 0.00016736984252929688" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="head_nose" type="fixed">
+    <parent link="head"/>
+    <child link="nose"/>
+    <origin xyz="0.11694955825805664 0.0 0.009344148635864259" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck_mouth" type="fixed">
+    <parent link="neck"/>
+    <child link="mouth"/>
+    <origin xyz="0.12489142417907716 1.396983861923218e-10 -0.04652285575866699" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck_neck.002" type="fixed">
+    <parent link="neck"/>
+    <child link="neck.002"/>
+    <origin xyz="0.12489142417907716 -1.350417733192444e-09 -0.04652285575866699" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck.002_ear.L" type="fixed">
+    <parent link="neck.002"/>
+    <child link="ear.L"/>
+    <origin xyz="-0.06508665084838867 0.07417705655097961 0.0944863796234131" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck_neck.003" type="fixed">
+    <parent link="neck"/>
+    <child link="neck.003"/>
+    <origin xyz="0.12489142417907716 -1.350417733192444e-09 -0.04652285575866699" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="neck.003_ear.R" type="fixed">
+    <parent link="neck.003"/>
+    <child link="ear.R"/>
+    <origin xyz="-0.06508665084838867 -0.0729802668094635 0.09448628425598145" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="chest_shoulder.L" type="fixed">
+    <parent link="chest"/>
+    <child link="shoulder.L"/>
+    <origin xyz="0.21797933578491213 -2.4214386940002442e-09 -0.011219787597656251" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shoulder.L_upper_arm.L" type="fixed">
+    <parent link="shoulder.L"/>
+    <child link="upper_arm.L"/>
+    <origin xyz="0.006888818740844727 0.07353396415710449 -0.023012208938598636" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="upper_arm.L_forearm.L" type="fixed">
+    <parent link="upper_arm.L"/>
+    <child link="forearm.L"/>
+    <origin xyz="-0.13435049057006837 0.020832133293151856 -0.15192975997924807" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L_wrist.L" type="fixed">
+    <parent link="forearm.L"/>
+    <child link="wrist.L"/>
+    <origin xyz="0.13564972877502443 0.020548838376998904 -0.015904998779296877" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.L_forearm.L.004" type="fixed">
+    <parent link="wrist.L"/>
+    <child link="forearm.L.004"/>
+    <origin xyz="0.023092555999755862 -0.0015036225318908693 -0.00503997802734375" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.004_forearm.L.005" type="fixed">
+    <parent link="forearm.L.004"/>
+    <child link="forearm.L.005"/>
+    <origin xyz="0.02869558334350586 0.009722435474395753 -0.010544776916503906" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.005_forearm.L.006" type="fixed">
+    <parent link="forearm.L.005"/>
+    <child link="forearm.L.006"/>
+    <origin xyz="0.015296673774719239 0.002947521209716797 -0.007106351852416992" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.006_forearm.L.007" type="fixed">
+    <parent link="forearm.L.006"/>
+    <child link="forearm.L.007"/>
+    <origin xyz="0.015454864501953125 0.003029263019561768 -0.00757737159729004" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.L_forearm.L.008" type="fixed">
+    <parent link="wrist.L"/>
+    <child link="forearm.L.008"/>
+    <origin xyz="0.023092555999755862 -0.0015036225318908693 -0.00503997802734375" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.008_forearm.L.009" type="fixed">
+    <parent link="forearm.L.008"/>
+    <child link="forearm.L.009"/>
+    <origin xyz="0.015282964706420899 0.013068139553070068 -0.009495878219604494" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.009_forearm.L.010" type="fixed">
+    <parent link="forearm.L.009"/>
+    <child link="forearm.L.010"/>
+    <origin xyz="0.02246205806732178 0.00860203504562378 -0.008498668670654297" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.010_forearm.L.011" type="fixed">
+    <parent link="forearm.L.010"/>
+    <child link="forearm.L.011"/>
+    <origin xyz="0.016556978225708008 0.009128093719482422 -0.006981515884399415" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.L_forearm.L.013" type="fixed">
+    <parent link="wrist.L"/>
+    <child link="forearm.L.013"/>
+    <origin xyz="0.023092555999755862 -0.0015036225318908693 -0.00503997802734375" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.013_forearm.L.001" type="fixed">
+    <parent link="forearm.L.013"/>
+    <child link="forearm.L.001"/>
+    <origin xyz="0.031141614913940432 -0.0005121111869812012 -0.009254169464111329" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.001_forearm.L.002" type="fixed">
+    <parent link="forearm.L.001"/>
+    <child link="forearm.L.002"/>
+    <origin xyz="0.019333481788635254 -5.841255187988282e-07 -0.009987115859985352" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.002_forearm.L.003" type="fixed">
+    <parent link="forearm.L.002"/>
+    <child link="forearm.L.003"/>
+    <origin xyz="0.015052032470703126 -0.001733517646789551 -0.0076906681060791016" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.L_forearm.L.017" type="fixed">
+    <parent link="wrist.L"/>
+    <child link="forearm.L.017"/>
+    <origin xyz="0.023092555999755862 -0.0015036225318908693 -0.00503997802734375" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.017_forearm.L.016" type="fixed">
+    <parent link="forearm.L.017"/>
+    <child link="forearm.L.016"/>
+    <origin xyz="0.039702224731445315 -0.008465886116027832 -0.013034439086914063" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.016_forearm.L.015" type="fixed">
+    <parent link="forearm.L.016"/>
+    <child link="forearm.L.015"/>
+    <origin xyz="0.013237738609313966 -0.004963183403015137 -0.007220935821533204" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.L.015_forearm.L.014" type="fixed">
+    <parent link="forearm.L.015"/>
+    <child link="forearm.L.014"/>
+    <origin xyz="0.011494255065917969 -0.004978263378143311 -0.006314229965209962" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="chest_shoulder.R" type="fixed">
+    <parent link="chest"/>
+    <child link="shoulder.R"/>
+    <origin xyz="0.21797933578491213 -2.4214386940002442e-09 -0.011219787597656251" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shoulder.R_upper_arm.R" type="fixed">
+    <parent link="shoulder.R"/>
+    <child link="upper_arm.R"/>
+    <origin xyz="0.006888818740844727 -0.07353396415710449 -0.023012208938598636" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="upper_arm.R_forearm.R" type="fixed">
+    <parent link="upper_arm.R"/>
+    <child link="forearm.R"/>
+    <origin xyz="-0.13435053825378418 -0.02083219289779663 -0.15192973613739014" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R_wrist.R" type="fixed">
+    <parent link="forearm.R"/>
+    <child link="wrist.R"/>
+    <origin xyz="0.13564972877502443 -0.020548838376998904 -0.015905022621154785" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.R_forearm.R.004" type="fixed">
+    <parent link="wrist.R"/>
+    <child link="forearm.R.004"/>
+    <origin xyz="0.022986125946044923 0.001503586769104004 -0.005033349990844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.004_forearm.R.005" type="fixed">
+    <parent link="forearm.R.004"/>
+    <child link="forearm.R.005"/>
+    <origin xyz="0.023439550399780275 -0.009722435474395753 -0.008809757232666016" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.005_forearm.R.006" type="fixed">
+    <parent link="forearm.R.005"/>
+    <child link="forearm.R.006"/>
+    <origin xyz="0.018515205383300783 -0.0041932821273803714 -0.006859016418457032" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.006_forearm.R.007" type="fixed">
+    <parent link="forearm.R.006"/>
+    <child link="forearm.R.007"/>
+    <origin xyz="0.020740294456481935 -0.0021694660186767577 -0.009892463684082031" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.R_forearm.R.008" type="fixed">
+    <parent link="wrist.R"/>
+    <child link="forearm.R.008"/>
+    <origin xyz="0.022986125946044923 0.001503586769104004 -0.005033349990844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.008_forearm.R.009" type="fixed">
+    <parent link="forearm.R.008"/>
+    <child link="forearm.R.009"/>
+    <origin xyz="0.017915773391723632 -0.015156567096710205 -0.00788116455078125" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.009_forearm.R.010" type="fixed">
+    <parent link="forearm.R.009"/>
+    <child link="forearm.R.010"/>
+    <origin xyz="0.017722415924072265 -0.007549214363098145 -0.007262563705444336" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.010_forearm.R.011" type="fixed">
+    <parent link="forearm.R.010"/>
+    <child link="forearm.R.011"/>
+    <origin xyz="0.02156336307525635 -0.01001729965209961 -0.009788608551025391" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.R_forearm.R.013" type="fixed">
+    <parent link="wrist.R"/>
+    <child link="forearm.R.013"/>
+    <origin xyz="0.022986125946044923 0.001503586769104004 -0.005033349990844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.013_forearm.R.001" type="fixed">
+    <parent link="forearm.R.013"/>
+    <child link="forearm.R.001"/>
+    <origin xyz="0.023305082321166994 -0.00187910795211792 -0.008850908279418946" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.001_forearm.R.002" type="fixed">
+    <parent link="forearm.R.001"/>
+    <child link="forearm.R.002"/>
+    <origin xyz="0.01787383556365967 -0.0013404130935668946 -0.0076542854309082035" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.002_forearm.R.003" type="fixed">
+    <parent link="forearm.R.002"/>
+    <child link="forearm.R.003"/>
+    <origin xyz="0.022095155715942384 0.0036851525306701664 -0.010247278213500978" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="wrist.R_forearm.R.017" type="fixed">
+    <parent link="wrist.R"/>
+    <child link="forearm.R.017"/>
+    <origin xyz="0.022986125946044923 0.001503586769104004 -0.005033349990844727" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.017_forearm.R.016" type="fixed">
+    <parent link="forearm.R.017"/>
+    <child link="forearm.R.016"/>
+    <origin xyz="0.02380990982055664 0.00474848747253418 -0.00951385498046875" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.016_forearm.R.015" type="fixed">
+    <parent link="forearm.R.016"/>
+    <child link="forearm.R.015"/>
+    <origin xyz="0.020169329643249512 0.005673491954803467 -0.009064912796020508" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="forearm.R.015_forearm.R.014" type="fixed">
+    <parent link="forearm.R.015"/>
+    <child link="forearm.R.014"/>
+    <origin xyz="0.016475105285644533 0.00606183409690857 -0.00785975456237793" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="spine_spine.002" type="fixed">
+    <parent link="spine"/>
+    <child link="spine.002"/>
+    <origin xyz="0.19219207763671875 9.778887033462525e-10 0.011847972869873047" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="spine_spine.003" type="fixed">
+    <parent link="spine"/>
+    <child link="spine.003"/>
+    <origin xyz="0.19219207763671875 1.0244548320770264e-09 0.011847972869873047" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips_thigh.L" type="fixed">
+    <parent link="hips"/>
+    <child link="thigh.L"/>
+    <origin xyz="0.08736619949340821 0.09125336408615113 0.06018810272216797" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="thigh.L_shin.L" type="fixed">
+    <parent link="thigh.L"/>
+    <child link="shin.L"/>
+    <origin xyz="0.020138263702392578 0.011632472276687622 -0.0761312484741211" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.L_shin_lower.L" type="fixed">
+    <parent link="shin.L"/>
+    <child link="shin_lower.L"/>
+    <origin xyz="-0.025718116760253908 0.004619073867797851 -0.0886162281036377" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.L_shin.R.019" type="fixed">
+    <parent link="shin_lower.L"/>
+    <child link="shin.R.019"/>
+    <origin xyz="0.14452819824218752 0.008473145961761476 -0.014368247985839844" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.019_shin.R.020" type="fixed">
+    <parent link="shin.R.019"/>
+    <child link="shin.R.020"/>
+    <origin xyz="0.027437114715576173 -0.0112576961517334 -0.014826536178588867" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.020_shin.R.021" type="fixed">
+    <parent link="shin.R.020"/>
+    <child link="shin.R.021"/>
+    <origin xyz="0.014453649520874023 -0.006239008903503419 -0.00823369026184082" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.L_shin.R.023" type="fixed">
+    <parent link="shin_lower.L"/>
+    <child link="shin.R.023"/>
+    <origin xyz="0.14452819824218752 0.006764245033264161 -0.014368247985839844" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.023_shin.R.024" type="fixed">
+    <parent link="shin.R.023"/>
+    <child link="shin.R.024"/>
+    <origin xyz="0.02585897445678711 0.00041126012802124025 -0.013944721221923828" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.024_shin.R.025" type="fixed">
+    <parent link="shin.R.024"/>
+    <child link="shin.R.025"/>
+    <origin xyz="0.020676565170288087 -0.0020926952362060546 -0.010028815269470215" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.L_shin.R.027" type="fixed">
+    <parent link="shin_lower.L"/>
+    <child link="shin.R.027"/>
+    <origin xyz="0.14452819824218752 0.008473145961761476 -0.014368247985839844" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.027_shin.R.028" type="fixed">
+    <parent link="shin.R.027"/>
+    <child link="shin.R.028"/>
+    <origin xyz="0.027994441986083987 0.009423756599426271 -0.013724899291992188" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.028_shin.R.029" type="fixed">
+    <parent link="shin.R.028"/>
+    <child link="shin.R.029"/>
+    <origin xyz="0.020863056182861328 0.004870498180389405 -0.010457658767700197" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.L_shin.R.031" type="fixed">
+    <parent link="shin_lower.L"/>
+    <child link="shin.R.031"/>
+    <origin xyz="0.14452819824218752 0.008473145961761476 -0.014368247985839844" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.031_shin.R.032" type="fixed">
+    <parent link="shin.R.031"/>
+    <child link="shin.R.032"/>
+    <origin xyz="0.022098445892333986 0.020865797996520996 -0.011384201049804688" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.032_shin.R.033" type="fixed">
+    <parent link="shin.R.032"/>
+    <child link="shin.R.033"/>
+    <origin xyz="0.02044801712036133 0.010398077964782716 -0.011530685424804689" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="hips_thigh.R" type="fixed">
+    <parent link="hips"/>
+    <child link="thigh.R"/>
+    <origin xyz="0.08736619949340821 -0.09189207553863527 0.06018810272216797" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="thigh.R_shin.R" type="fixed">
+    <parent link="thigh.R"/>
+    <child link="shin.R"/>
+    <origin xyz="0.020138263702392578 -0.011876171827316285 -0.0761312484741211" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R_shin_lower.R" type="fixed">
+    <parent link="shin.R"/>
+    <child link="shin_lower.R"/>
+    <origin xyz="-0.025718116760253908 -0.005410981178283692 -0.0886162281036377" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.R_shin.R.002" type="fixed">
+    <parent link="shin_lower.R"/>
+    <child link="shin.R.002"/>
+    <origin xyz="0.14452819824218752 -0.0062108635902404785 -0.014368152618408203" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.002_shin.R.003" type="fixed">
+    <parent link="shin.R.002"/>
+    <child link="shin.R.003"/>
+    <origin xyz="0.0257047176361084 0.010883581638336182 -0.014800119400024415" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.003_shin.R.004" type="fixed">
+    <parent link="shin.R.003"/>
+    <child link="shin.R.004"/>
+    <origin xyz="0.014453649520874023 0.0063697040081024175 -0.00823369026184082" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.R_shin.R.006" type="fixed">
+    <parent link="shin_lower.R"/>
+    <child link="shin.R.006"/>
+    <origin xyz="0.14452819824218752 -0.0062108635902404785 -0.014368152618408203" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.006_shin.R.007" type="fixed">
+    <parent link="shin.R.006"/>
+    <child link="shin.R.007"/>
+    <origin xyz="0.02585897445678711 -0.0004198670387268067 -0.013944721221923828" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.007_shin.R.008" type="fixed">
+    <parent link="shin.R.007"/>
+    <child link="shin.R.008"/>
+    <origin xyz="0.020676612854003906 0.002136552333831787 -0.010028791427612305" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.R_shin.R.010" type="fixed">
+    <parent link="shin_lower.R"/>
+    <child link="shin.R.010"/>
+    <origin xyz="0.14452819824218752 -0.0062108635902404785 -0.014368152618408203" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.010_shin.R.011" type="fixed">
+    <parent link="shin.R.010"/>
+    <child link="shin.R.011"/>
+    <origin xyz="0.027994441986083987 -0.009566760063171387 -0.013724899291992188" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.011_shin.R.012" type="fixed">
+    <parent link="shin.R.011"/>
+    <child link="shin.R.012"/>
+    <origin xyz="0.020863056182861328 -0.0049725532531738285 -0.010457611083984375" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin_lower.R_shin.R.014" type="fixed">
+    <parent link="shin_lower.R"/>
+    <child link="shin.R.014"/>
+    <origin xyz="0.14452819824218752 -0.0062108635902404785 -0.014368152618408203" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.014_shin.R.015" type="fixed">
+    <parent link="shin.R.014"/>
+    <child link="shin.R.015"/>
+    <origin xyz="0.02370414733886719 -0.021089184284210208 -0.011951684951782227" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+  <joint name="shin.R.015_shin.R.016" type="fixed">
+    <parent link="shin.R.015"/>
+    <child link="shin.R.016"/>
+    <origin xyz="0.02044806480407715 -0.010615897178649903 -0.011530685424804689" rpy="-0.0 0.0 0.0"/>
+  </joint>
+
+</robot>
